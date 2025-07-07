@@ -4,7 +4,7 @@ def main():
     print('start')
     parser = argparse.ArgumentParser()
 
-    parser.add_argument("--text", default="hello world")
+    parser.add_argument("--text", default="hello again!")
     parser.add_argument("--output", default="hello.txt")
 
     args = parser.parse_args()

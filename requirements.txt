@@ -1,2 +1,2 @@
 numpy
-math
+python-math
